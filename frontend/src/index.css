@@ -122,3 +122,7 @@ margin-bottom: 0.5rem;
     color: #f0c040;
     margin: 00.1rem;
 }
+
+.rating span:last-child{
+    color: #404040;
+}
